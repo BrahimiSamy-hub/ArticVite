@@ -1,0 +1,102 @@
+{
+  "title": "ARTIC PLUS",
+  "slogan1": "Même jeu…",
+  "slogan2": "nouvelles règles.",
+  "tagline": "Un service et une plateforme de réseau social alimentés par l’intelligence artificielle, permettant de partager des photos, des vidéos, des opinions et des publicités de manière amusante, tout en offrant des récompenses précieuses aux utilisateurs.",
+  "hero": {
+    "welcome": "Bienvenue sur ARTIC PLUS",
+    "description": "Nous transformons la manière dont vous créez et partagez du contenu. Notre plateforme combine une technologie d'IA avancée avec une communauté dynamique pour rendre la création de contenu amusante, engageante et gratifiante.",
+    "button": "Commencez maintenant"
+  },
+  "whatWeDo": "ARTIC PLUS est votre service de réseau social tout-en-un où la créativité rencontre l'innovation. Que vous partagiez des moments à travers des photos et des vidéos, exprimiez vos opinions ou fassiez de la publicité pour votre marque, notre plateforme est conçue pour élever votre expérience.",
+  "features": {
+    "discoverOurFeatures": "Découvrez nos fonctionnalités",
+    "title": "Nos fonctionnalités",
+    "intelligentContentCreation": {
+      "title": "Création de contenu intelligent",
+      "description": "Exploitez l'IA pour améliorer vos photos, vidéos et publications grâce à des outils d'édition et d'optimisation intelligents."
+    },
+    "seamlessSharing": {
+      "title": "Partage sans effort",
+      "description": "Partagez instantanément votre créativité avec vos amis, abonnés et communautés du monde entier."
+    },
+    "rewardingEngagement": {
+      "title": "Engagement gratifiant",
+      "description": "Gagnez des récompenses précieuses chaque fois que vous créez, partagez ou interagissez sur la plateforme."
+    },
+    "advertisingReimagined": {
+      "title": "Publicité réinventée",
+      "description": "Transformez les publicités traditionnelles en une expérience engageante, interactive et efficace."
+    },
+    "communityFocused": {
+      "title": "Axé sur la communauté",
+      "description": "Rejoignez une communauté dynamique où chaque voix compte et chaque moment est célébré."
+    }
+  },
+  "mission": {
+    "title": "Mission",
+    "content": "Faciliter la création de contenu de haute qualité et rendre la publicité plus agréable."
+  },
+  "vision": {
+    "title": "Vision",
+    "content": "Façonner l’avenir de la création de contenu et de la publicité tout en gagnant le cœur de nos utilisateurs."
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "getStarted": "Commencez en quelques étapes simples",
+    "description": "Que vous soyez un influenceur, un annonceur ou simplement quelqu’un qui aime partager les moments de la vie, ARTIC PLUS est là pour dynamiser votre créativité.",
+    "steps": [
+      "Inscrivez-vous & Personnalisez : Créez votre profil et choisissez les fonctionnalités qui correspondent le mieux à votre style.",
+      "Créez & Partagez : Utilisez nos outils alimentés par l’IA pour produire des photos, vidéos et publications de haute qualité.",
+      "Gagnez des récompenses : Interagissez avec le contenu et profitez d’une expérience enrichissante à chaque étape.",
+      "Développez votre réseau : Connectez-vous avec des créateurs, influenceurs et marques partageant les mêmes idées pour étendre votre portée."
+    ]
+  },
+  "testimonials": [
+    "ARTIC PLUS a complètement transformé mon expérience sur les réseaux sociaux. Les outils d’IA sont révolutionnaires ! - Un utilisateur satisfait",
+    "Enfin, une plateforme où la créativité est récompensée. J’adore la facilité avec laquelle je peux partager mon travail et me connecter avec les autres. - Créateur de contenu"
+  ],
+  "callToAction": {
+    "title": "Rejoignez la révolution des réseaux sociaux",
+    "description": "Que vous soyez un influenceur, un annonceur, ou simplement quelqu’un qui aime partager les moments de la vie, ARTIC PLUS est là pour dynamiser votre créativité.",
+    "buttonPrimary": "Inscrivez-vous gratuitement dès aujourd'hui",
+    "buttonSecondary": "En savoir plus sur nos fonctionnalités"
+  },
+  "footer": {
+    "about": "À propos de nous",
+    "contact": "Contact",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation",
+    "social": "Suivez-nous sur les réseaux sociaux"
+  },
+  "contactUs": {
+    "contactUs": "Contactez-nous",
+    "getInTouch": "Prenez contact",
+    "yourName": "Votre nom",
+    "yourEmail": "Votre e-mail",
+    "yourQuestion": "Votre question",
+    "yourComment": "Votre commentaire",
+    "sendMessage": "Envoyer le message",
+    "sending": "Envoi...",
+    "messageSent": "Message envoyé ! Nous vous répondrons bientôt.",
+    "messageError": "Erreur lors de l'envoi du message. Veuillez réessayer.",
+    "namePlaceholder": "Entrez votre nom",
+    "emailPlaceholder": "Entrez votre e-mail",
+    "questionPlaceholder": "Entrez votre question",
+    "commentPlaceholder": "Entrez votre commentaire"
+  },
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "application": "Application",
+    "faqs": "FAQs",
+    "download": "Télécharger",
+    "reviews": "Avis",
+    "contact": "Contactez-nous"
+  },
+  "faqs": {
+    "faqs": "FAQs",
+    "title": "Questions Fréquemment Posées",
+    "description": "Vous avez des questions ? Consultez notre FAQ pour trouver des réponses aux questions les plus courantes."
+  }
+}
